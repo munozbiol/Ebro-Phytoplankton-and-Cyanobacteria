@@ -1,0 +1,11 @@
+*.csv
+*.emf
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.pdf
+.Rhistory
+.RData
+.Rproj.user/
